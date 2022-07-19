@@ -1,5 +1,8 @@
 # TourOfHeroes
 
+This project is a simple web App I made in order to perfect my understanding and knowledge of Angular.
+It follows the steps of the [Angular tutorial](https://angular.io/tutorial)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
